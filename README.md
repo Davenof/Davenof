@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David.
-- 👀 I’m interested in website and software development.
+- 👀 I’m interested in web and software development.
 - 🌱 I’m currently learning full stack engineering.
 - 💞️ I’m looking to collaborate on prototyping (wireframing), interface design, and development projects.
 - 📫 You can reach me through ofili.dn@gmail.com.
